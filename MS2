@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T13:03:22.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="TtSIMwtibkSsSbRAO_JD" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T13:06:16.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="2pCqb02jEwx12NYZtCMN" version="21.2.1" type="github">
   <diagram name="Seite-1" id="M7GBL9e8Fs8KHI01CUQR">
     <mxGraphModel dx="2204" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         <mxCell id="vspPCyXLxY5PNaHGmhhH-29" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="vspPCyXLxY5PNaHGmhhH-23" target="vspPCyXLxY5PNaHGmhhH-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vspPCyXLxY5PNaHGmhhH-23" value="������ Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="vspPCyXLxY5PNaHGmhhH-23" value="σ&amp;nbsp;Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-465.65" y="480" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vspPCyXLxY5PNaHGmhhH-32" value="2" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="vspPCyXLxY5PNaHGmhhH-24" target="vspPCyXLxY5PNaHGmhhH-25" edge="1">
@@ -211,7 +211,7 @@
         <mxCell id="vspPCyXLxY5PNaHGmhhH-48" value="1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="vspPCyXLxY5PNaHGmhhH-40" target="vspPCyXLxY5PNaHGmhhH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vspPCyXLxY5PNaHGmhhH-40" value="������ Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="vspPCyXLxY5PNaHGmhhH-40" value="σ Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-815.39" y="755" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vspPCyXLxY5PNaHGmhhH-51" value="1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="vspPCyXLxY5PNaHGmhhH-42" target="vspPCyXLxY5PNaHGmhhH-44" edge="1">
@@ -256,7 +256,7 @@
         <mxCell id="z56BADStonMe30HD26GO-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="z56BADStonMe30HD26GO-9" target="z56BADStonMe30HD26GO-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z56BADStonMe30HD26GO-9" value="������&amp;nbsp;Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="z56BADStonMe30HD26GO-9" value="σ&amp;nbsp;Titel=&quot;Wissenschaftstheorie&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-444.99999999999994" y="760" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z56BADStonMe30HD26GO-10" value="1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="z56BADStonMe30HD26GO-11" target="z56BADStonMe30HD26GO-13" edge="1">
